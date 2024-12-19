@@ -4,6 +4,7 @@
 
 This project is a Spring Boot application that processes transactions using Kafka. It includes services for handling transactions and managing user balances.
 
+![img.png](img.png)
 
 ## Prerequisites
 
